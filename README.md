@@ -1,7 +1,7 @@
 # data-science-notebooks
 
 
-Resolution of data-science notebooks (**IMD0905**).
+Resolution of some data science notebooks (**IMD0905**).
 
 ### Author
 
